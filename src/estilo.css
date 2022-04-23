@@ -1,0 +1,33 @@
+body {
+    background: #aaa;
+    width: 300px;
+    margin: 80px auto;
+}
+
+.t {
+    text-align: center;
+}
+.tudo {
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+input {
+    width: 300px;
+    margin: 10px 0;
+    padding: 5px;
+    
+}
+
+.b {
+    padding: 5px;
+    width: 315px;
+    margin-top: 20px;
+    left:10px;
+    background: black;
+    color: yellow;
+    
+}
+
